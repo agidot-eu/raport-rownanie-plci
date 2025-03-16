@@ -1,41 +1,45 @@
 # Równanie płci: Co mówią nam modele językowe?
 
 ## Abstrakt
-W tym raporcie przyglądamy się, jak sztuczna inteligencja (AI) przetwarza i rozumie język w kontekście płci.
-Modele językowe, takie jak te stosowane w wyszukiwarkach czy chatbotach, uczą się na podstawie ogromnych zbiorów
-danych z internetu. Problem polega na tym, że w tych danych mogą być ukryte uprzedzenia i stereotypy, które AI może
-nieświadomie wzmacniać.
 
-W ramach raportu chcemy budować świadomość i rozpocząć społeczną rozmowę o sztucznej inteligencji w życiu społecznym i biznesowym.
+W tym raporcie przyglądamy się, jak sztuczna inteligencja (AI) przetwarza i rozumie język w kontekście płci.  
+Modele językowe, takie jak te stosowane w wyszukiwarkach czy chatbotach, uczą się na podstawie ogromnych zbiorów danych z internetu. Problem polega na tym, że w tych danych mogą być ukryte uprzedzenia i stereotypy, które AI może nieświadomie wzmacniać.
 
-Projekt będzie dostępny za darmo, jaki i dane na podstawie których został napisan, tak żeby każdy mógł zamodzielnie zweryfikować dane i analizy, które przeprowadzimy
+Celem raportu jest budowanie świadomości oraz rozpoczęcie społecznej dyskusji na temat roli sztucznej inteligencji w życiu społecznym i biznesowym.
 
-# Sponsorzy 
+Projekt, wraz z danymi, na podstawie których został napisany, będzie dostępny za darmo. Dzięki temu każdy będzie mógł samodzielnie zweryfikować dane oraz analizy, które przeprowadzimy.
 
-Szukamy sponsora strategicznego dla raportu oraz sponsorów głównych.
-Sponsorzy dostaną:
- - miejsce na okładce raportu
- - miejsce w wydzielonym miejscu raportu, gdzie będą mogli opisać swoje firmy.
- - udostępnienie linków do swoich stron firmowych.
+## Sponsorzy 
 
- więcej informacji na stronie [Agidot](https://agidot.eu)
+Szukamy sponsora strategicznego dla raportu oraz sponsorów głównych.  
+Sponsorzy otrzymają:
 
-# Patronat medialny
+- miejsce na okładce raportu,  
+- sekcję w wydzielonej części raportu, gdzie będą mogli opisać swoje firmy,  
+- możliwość umieszczenia linków do swoich stron firmowych.
 
-Już w krótce więcej informaci :)
+Więcej informacji na stronie [Agidot](https://agidot.eu).
 
+## Patronat medialny
+
+Już wkrótce więcej informacji. :)
 
 ## Jak dołączyć do projektu?
 
-Jest kilka sposobów na dołączenie do projektu:
- - zbieranie danych do dokumentów excel w folderze 'zrodla-danych'. 
-    - zapisywanie ofert pracy i kategoryzacjia ich - wypełnienie tytułu, url oferty, treści oferty i kategorii
-    - zapisywanie par słów w wersji żeńskiej i męskiej
-    - zapisywanie słów które mogą mieć znaczenie z perspektywy różnić żeńsko/męskich
- - przygotowanie skryptów python do analizy danych - np. wzorując się na udostępnionych przykładach (np. analiza ilości wystąpień słów)
- - analiza danych - na podstawie zebranych źródeł danych, wygenerowane zostaną (przez skrypty analizujące teksty) dane, które trzeba grupować, kategoryzować i analizować
- - promocja i marketing
+Istnieje kilka sposobów na zaangażowanie się w projekt:
 
+- **Zbieranie danych** w arkuszach Excel w folderze `zrodla-danych`:  
+  - zapisywanie ofert pracy i ich kategoryzacja (wypełnienie tytułu, URL oferty, treści oferty oraz kategorii),  
+  - tworzenie par słów w wersji żeńskiej i męskiej,  
+  - identyfikowanie słów, które mogą mieć znaczenie z perspektywy różnic płciowych.
+
+- **Przygotowanie skryptów w Pythonie** do analizy danych, np. wzorując się na udostępnionych przykładach (np. analiza liczby wystąpień określonych słów).
+
+- **Analiza danych** na podstawie zgromadzonych źródeł. Wygenerowane przez skrypty dane należy grupować, kategoryzować i analizować.
+
+- **Promocja i marketing** projektu.
+
+Zapraszamy do współpracy!
 
 
 ---
