@@ -45,7 +45,7 @@ Zapraszamy do współpracy!
 ---
 
 ## Wprowadzenie
-Rozwój sztucznej inteligencji i modeli językowych otwiera nowe możliwości, ale niesie też zagrożenia związane z utrwalaniem stereotypów płciowych. Celem raportu jest analiza, w jaki sposób AI reprezentuje płeć oraz jak można przeciwdziałać potencjalnym uprzedzeniom.
+Rozwój sztucznej inteligencji i modeli językowych otwiera nowe możliwości, ale niesie też pewne zagrożenia, w tym te związane z utrwalaniem stereotypów płciowych. Celem raportu jest analiza, w jaki sposób AI reprezentuje płeć oraz jak można przeciwdziałać potencjalnym uprzedzeniom.
 
 ## Badanie stanu faktycznego
 ### Teoretyczne podstawy
@@ -53,6 +53,7 @@ Rozwój sztucznej inteligencji i modeli językowych otwiera nowe możliwości, a
 - Pojęcia kluczowe: embeddingi, skojarzenia, uprzedzenia.
 
 ### Metodologia
+- Wykorzstany model językowy
 - Analiza embeddingów i skojarzeń płciowych.
 - Zbiory danych i sposób ich selekcji.
 - Sposoby analizy wyników.
