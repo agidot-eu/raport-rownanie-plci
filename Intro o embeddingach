@@ -1,0 +1,12 @@
+
+Co to są embeddingi?
+
+Embeddingi (embeddings), czyli osadzenia, to numeryczne reprezentacje wartości lub obiektów takich jak obraz, text lub audio stworzone do wykorzystania przez ML modele i do wyszukiwania obiektów podobnych do siebie, tj. o zbliżonych wartościach numerycznych. Im bardziej zbliżone do siebie wartości liczbowe poszczególnych obiektów - podobna lokalizacja, tym większe podobieństwo między nimi. 
+
+Z pojęciem embeddingu ściśle związane jest również pojęcie wektora (vector). Proces tworzenia wektora z danych to embedowanie (vector embedding). Wektor (vector) to lista liczb np. [1015, 22, 77] a kaźda z tych liczb wskazuje punkt odniesienia danego obiektu - dymensja (dimension). Można to porównać do współrzędnych geograficznych danej miejscowości. Podanie tych współrzędnych pozwala na łatwe wyszukanie jej na mapie oraz w odniesieniu do innych obiektów - miejscowości. Np. współrzędne geograficzne dla miasta Zabrze to 50°18′N, 18°47′E co tworzy wektor dwóch wartości: szerokość i długość geograficzną [50°18′N, 18°47′E]. Położone obok Gliwice mają zbliżone współrzędne geograficzne i stąd podobne wartości wektorowe [50°17′N, 18°40′E﻿] co świadczy o tym iż oba miasta są położone w bliskiej odległosci między sobą, a zatem można by przyjąć, że istnieje "podobieństwo" między nimi. Co więcej, moźemy dodać dodatkowe dymensje do wektorów. W przypadku miast może to być liczba miaszkańców. I tak oto, Zabrze zamieszkiwane przez 154.375 mieszkańców ma zbliżoną liczbę mieszkańców do miasta Gliwice - 169.750, co daje wektor wartości dla GLiwic [50°17′N, 18°40′E, 169.750﻿] podobny do wektora wartości Zabrza [50°18′N, 18°47′E, 154.375], co pokazuje, iż nie tylko obia miasta znajdują się w bliskiej odległości między sobą, ale również są "podobne" do siebie pod względem liczby ludności. 
+
+Odnosząc to do wartości dla kilku przykładów: jeśli "tato" ma następujące wartości wektorowe: [0.1567, 0.4989, 1.2093] to prawdopodobnie "ojciec" lub "tatuś" będzie mieć bardziej zbliżone do tych wartości niż "mama". Kolejny przykład, najbliżej słowa "pies" z poniższej listy słów (kiedy 1 = to samo słowo) będzie: kot (0.8), wiewiórka (0.3), chomik (0.2).
+
+Referencje: 
+United Nations Database: https://data.un.org/Data.aspx?d=POP&f=tableCode:240
+Cloudflare: https://www.cloudflare.com/pl-pl/learning/ai/what-are-embeddings/
